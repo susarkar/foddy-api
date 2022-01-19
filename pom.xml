@@ -94,7 +94,6 @@
 	</dependencies>
 
 	<build>
-	<finalName>foody</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
